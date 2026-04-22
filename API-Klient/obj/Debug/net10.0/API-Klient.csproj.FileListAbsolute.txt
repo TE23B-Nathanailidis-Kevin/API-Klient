@@ -1,0 +1,15 @@
+C:\Users\Kevin\Prog2\API-Klient\API-Klient\bin\Debug\net10.0\API-Klient.exe
+C:\Users\Kevin\Prog2\API-Klient\API-Klient\bin\Debug\net10.0\API-Klient.deps.json
+C:\Users\Kevin\Prog2\API-Klient\API-Klient\bin\Debug\net10.0\API-Klient.runtimeconfig.json
+C:\Users\Kevin\Prog2\API-Klient\API-Klient\bin\Debug\net10.0\API-Klient.dll
+C:\Users\Kevin\Prog2\API-Klient\API-Klient\bin\Debug\net10.0\API-Klient.pdb
+C:\Users\Kevin\Prog2\API-Klient\API-Klient\obj\Debug\net10.0\API-Klient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Prog2\API-Klient\API-Klient\obj\Debug\net10.0\API-Klient.AssemblyInfoInputs.cache
+C:\Users\Kevin\Prog2\API-Klient\API-Klient\obj\Debug\net10.0\API-Klient.AssemblyInfo.cs
+C:\Users\Kevin\Prog2\API-Klient\API-Klient\obj\Debug\net10.0\API-Klient.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Prog2\API-Klient\API-Klient\obj\Debug\net10.0\API-Klient.sourcelink.json
+C:\Users\Kevin\Prog2\API-Klient\API-Klient\obj\Debug\net10.0\API-Klient.dll
+C:\Users\Kevin\Prog2\API-Klient\API-Klient\obj\Debug\net10.0\refint\API-Klient.dll
+C:\Users\Kevin\Prog2\API-Klient\API-Klient\obj\Debug\net10.0\API-Klient.pdb
+C:\Users\Kevin\Prog2\API-Klient\API-Klient\obj\Debug\net10.0\API-Klient.genruntimeconfig.cache
+C:\Users\Kevin\Prog2\API-Klient\API-Klient\obj\Debug\net10.0\ref\API-Klient.dll
